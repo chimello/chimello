@@ -44,6 +44,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=chimello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/chimello/chimello/blob/output/github-contribution-grid-snake.svg)
+
 ## Contatos:
 
 <div>
@@ -51,3 +53,4 @@
 <a href = "mailto:devchimello@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joaochimello/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
